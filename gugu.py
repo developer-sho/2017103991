@@ -86,6 +86,16 @@ def gugulist8():
     print ("8*8=64")
     print ("8*9=72")
 
+def gugulist9():
+    print("9*1=9")
+    print("9*2=18")
+    print("9*3=27")
+    print("9*4=36")
+    print("9*5=45")
+    print("9*6=54")
+    print("9*7=63")
+    print("9*8=72")
+    print("9*9=81")
 
 gugulist1()
 gugulist2()
@@ -95,3 +105,4 @@ gugulist5()
 gugulist6()
 gugulist7()
 gugulist8()
+gugulist9()
